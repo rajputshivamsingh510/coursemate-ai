@@ -1,0 +1,37 @@
+streamlit
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+langchain-huggingface
+langchain_mistralai
+
+# LLM & Embeddings
+sentence-transformers
+
+# Vector Database (Choose one)
+chromadb
+# faiss-cpu
+
+# PDF Processing
+pypdf
+pymupdf
+pdfplumber
+unstructured
+
+# Token Counting
+tiktoken
+
+# Environment
+python-dotenv
+
+# Validation
+pydantic
+
+# Utilities
+numpy
+pandas
+Pillow
