@@ -2,9 +2,13 @@
 
 An AI-powered PDF Q&A assistant. Upload any PDF, and ask questions about it in a clean chat interface — answers are generated strictly from the content of your document using Retrieval-Augmented Generation (RAG).
 
-**🚀 Live Demo:** [yhzrayayzpvlehbefx5cuu.streamlit.app](https://yhzrayayzpvlehbefx5cuu.streamlit.app/)
+<div align="center">
 
-![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+### [🚀 &nbsp;**Try the Live Demo**&nbsp; 🚀](https://yhzrayayzpvlehbefx5cuu.streamlit.app/)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yhzrayayzpvlehbefx5cuu.streamlit.app/)
+
+</div>
 
 <!-- Replace the line below with an actual screenshot of your app -->
 ![App Screenshot](docs/screenshot.png)
