@@ -11,7 +11,7 @@ An AI-powered PDF Q&A assistant. Upload any PDF, and ask questions about it in a
 </div>
 
 <!-- Replace the line below with an actual screenshot of your app -->
-![App Screenshot](docs/screenshot.png)
+![App Screenshot](docs/Screenshot.png)
 
 ---
 
